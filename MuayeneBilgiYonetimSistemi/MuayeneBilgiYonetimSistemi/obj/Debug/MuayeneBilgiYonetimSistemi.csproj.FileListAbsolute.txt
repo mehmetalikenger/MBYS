@@ -1,0 +1,206 @@
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\MuayeneBilgiYonetimSistemi.exe.config
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\MuayeneBilgiYonetimSistemi.exe
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\MuayeneBilgiYonetimSistemi.pdb
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.MBYS.resources
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.Properties.Resources.resources
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.exe
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.pdb
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.HastaKaydet.resources
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.MuayeneKaydet.resources
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.HastaBilgileri.resources
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.IlacBilgileri.resources
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.ReceteYaz.resources
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Npgsql.dll
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Buffers.dll
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Memory.dll
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Text.Json.dll
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Threading.Channels.dll
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Npgsql.xml
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Buffers.xml
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Memory.xml
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Text.Json.xml
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Threading.Channels.xml
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.csproj.CopyComplete
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.ReceteListesi.resources
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.MuayeneOlustur.resources
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.IlacKaydet.resources
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\MuayeneBilgiYonetimSistemi.exe.config
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\MuayeneBilgiYonetimSistemi.exe
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\MuayeneBilgiYonetimSistemi.pdb
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Npgsql.dll
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Buffers.dll
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Memory.dll
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Text.Json.dll
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Threading.Channels.dll
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Npgsql.xml
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Buffers.xml
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Memory.xml
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Text.Json.xml
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Threading.Channels.xml
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.IlacKaydet.resources
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.MBYS.resources
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.HastaBilgileri.resources
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.HastaKaydet.resources
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.IlacBilgileri.resources
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.MuayeneKaydet.resources
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.MuayeneOlustur.resources
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.Properties.Resources.resources
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.ReceteListesi.resources
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.ReceteYaz.resources
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.csproj.CopyComplete
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.exe
+C:\Users\kenge\Desktop\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.pdb
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.MuayeneKayitlari.resources
+C:\Users\kenge\source\repos\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.MuayeneIptalEt.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\MuayeneBilgiYonetimSistemi.exe.config
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\MuayeneBilgiYonetimSistemi.exe
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\MuayeneBilgiYonetimSistemi.pdb
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Npgsql.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Buffers.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Memory.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Text.Json.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Threading.Channels.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Npgsql.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Buffers.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Memory.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Text.Json.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Threading.Channels.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.IlacKaydet.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.MBYS.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.HastaBilgileri.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.HastaKaydet.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.IlacBilgileri.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.MuayeneIptalEt.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.MuayeneKaydet.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.MuayeneKayitlari.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.MuayeneOlustur.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.Properties.Resources.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.ReceteListesi.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.ReceteYaz.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.csproj.CopyComplete
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.exe
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_Odev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.pdb
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\MuayeneBilgiYonetimSistemi.exe.config
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\MuayeneBilgiYonetimSistemi.exe
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\MuayeneBilgiYonetimSistemi.pdb
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Npgsql.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Buffers.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Memory.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Text.Json.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Threading.Channels.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\Npgsql.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Buffers.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Memory.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Text.Json.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Threading.Channels.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.IlacKaydet.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.MBYS.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.HastaBilgileri.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.HastaKaydet.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.IlacBilgileri.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.MuayeneIptalEt.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.MuayeneKaydet.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.MuayeneKayitlari.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.MuayeneOlustur.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.Properties.Resources.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.ReceteListesi.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.ReceteYaz.resources
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.csproj.CopyComplete
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.exe
+C:\Users\kenge\Desktop\210601077_Mehmet Ali_KENGER_FinalOdev\MuayeneBilgiYonetimSistemi\MuayeneBilgiYonetimSistemi\obj\Debug\MuayeneBilgiYonetimSistemi.pdb
